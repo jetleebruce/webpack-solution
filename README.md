@@ -1,0 +1,1 @@
+Webpack solution for production
