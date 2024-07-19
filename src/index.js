@@ -1,2 +1,2 @@
-import { someFunc } from './test';
-someFunc();
+import { SomeFunc } from './test';
+SomeFunc();
