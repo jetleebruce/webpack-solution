@@ -1,1 +1,1 @@
-Webpack solution for production
+Webpack solution for production and for development 
